@@ -1,4 +1,4 @@
-# safeline-waf-dvwa-lab
+# safeline-waf-dvwa-lab                                                                        (This project was performed in a controlled lab environment for educational purposes only)
 SafeLine WAF + DVWA Lab Setup with Kali Linux &amp; Ubuntu (Attack Simulation)
 
 # 🔐 SafeLine WAF + DVWA Lab
@@ -25,3 +25,14 @@ Kali → SafeLine → Apache → DVWA
 
 ## 📄 Full Guide
 See: safeline_dvwa_lab_guide.pdf
+
+## 📸 Screenshots
+
+### 🔐 SafeLine Dashboard
+![SafeLine](screenshots/safeline-dashboard.png)
+
+### 🌐 DVWA Login Page
+![DVWA](screenshots/dvwa-login.png)
+
+### 🚨 Attack Detection (SQL Injection)
+![Attack Logs](screenshots/attack-log.png)
