@@ -31,11 +31,11 @@ See: safeline_dvwa_lab_guide.pdf
 
 ## 📸 Screenshots
 
-### 🔐 SafeLine Dashboard
-![SafeLine](screenshots/safeline-dashboard.png)
+### 🚨 WAF Blocking Attack (SQL Injection)
+![Blocked](screenshots/waf-blocked-attack.png)
+
+### 📊 SafeLine Dashboard
+![Dashboard](screenshots/safeline-dashboard.png)
 
 ### 🌐 DVWA Login Page
 ![DVWA](screenshots/dvwa-login.png)
-
-### 🚨 Attack Detection (SQL Injection)
-![Attack Logs](screenshots/attack-log.png)
